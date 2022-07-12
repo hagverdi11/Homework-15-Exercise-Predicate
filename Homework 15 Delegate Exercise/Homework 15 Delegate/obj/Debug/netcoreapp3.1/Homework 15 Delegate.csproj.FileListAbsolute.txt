@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\bin\Debug\netcoreapp3.1\Homework 15 Delegate.exe
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\bin\Debug\netcoreapp3.1\Homework 15 Delegate.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\bin\Debug\netcoreapp3.1\Homework 15 Delegate.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\bin\Debug\netcoreapp3.1\Homework 15 Delegate.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\bin\Debug\netcoreapp3.1\Homework 15 Delegate.dll
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\bin\Debug\netcoreapp3.1\Homework 15 Delegate.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.dll
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates Exercise\Homework 15 Delegate\Homework 15 Delegate\obj\Debug\netcoreapp3.1\Homework 15 Delegate.genruntimeconfig.cache
